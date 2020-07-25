@@ -1,3 +1,6 @@
 # hello-world
 Kiyavaa
-lives in a concrete Jungle
+
+i am leaning this for the first time
+I am not doing this right
+
